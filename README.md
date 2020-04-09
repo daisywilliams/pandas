@@ -4,6 +4,7 @@ Many people titled COVID-19 as 'just a flu'. I want to compare the data for Infl
 <h4> Make sure your pitch answers the following questions: 
 
 Why this story is relevant ("So what?) and why now? </h4>
+
 A: Coronavirus is the only story that is relevant and now that NYC has the highest numbers in the US, its more relevant than ever. 
 <h4> 
 What is the single question your story tries to answer? </h4>
