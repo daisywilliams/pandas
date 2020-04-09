@@ -15,10 +15,10 @@ A:Simplifying the numbers
 <h4>
 What else has been done on this topic (provide links)? How is your angle different or fresh?
 
-How does the new coronavirus compare with the flu? - Live Science 
+How does the new coronavirus compare with the flu? - Live Science <br>
 https://www.livescience.com/new-coronavirus-compare-with-flu.html 
 
-Do you still think coronavirus is just like the flu? Here’s why COVID-19 is more dangerous- Inquirer 
+Do you still think coronavirus is just like the flu? Here’s why COVID-19 is more dangerous- Inquirer <br>
 https://www.inquirer.com/health/coronavirus/is-coronavirus-worse-than-flu-jefferson-mayo-penn-state-new-jersey-pennsylvania-cdc-20200408.html
 
 
