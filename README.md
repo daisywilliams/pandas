@@ -1,26 +1,28 @@
-<h3> Pitch:  </h3> 
+<h2> Pitch:  </h2> 
 Many people titled COVID-19 as 'just a flu'. I want to compare the data for Influenza and Pneumonia to the current data on coronavirus in NYC 
 
-Make sure your pitch answers the following questions:
+<h4> Make sure your pitch answers the following questions: 
 
-Why this story is relevant ("So what?) and why now?
+Why this story is relevant ("So what?) and why now? </h4>
 A: Coronavirus is the only story that is relevant and now that NYC has the highest numbers in the US, its more relevant than ever. 
-
-What is the single question your story tries to answer?
+<h4> 
+What is the single question your story tries to answer? </h4>
 A: How comparable are the two? 
-
-Why will this story resonate with your audience?
+<h4>
+Why will this story resonate with your audience? </h4>
 A:Simplifying the numbers 
 
+<h4>
 What else has been done on this topic (provide links)? How is your angle different or fresh?
 
 How does the new coronavirus compare with the flu? - Live Science 
-https://www.livescience.com/new-coronavirus-compare-with-flu.html
+https://www.livescience.com/new-coronavirus-compare-with-flu.html 
+
 Do you still think coronavirus is just like the flu? Here’s why COVID-19 is more dangerous- Inquirer 
 https://www.inquirer.com/health/coronavirus/is-coronavirus-worse-than-flu-jefferson-mayo-penn-state-new-jersey-pennsylvania-cdc-20200408.html
 
 
-Write up at least one or up to three findings from your analysis based on the data you found.
+<h4> Write up at least one or up to three findings from your analysis based on the data you found. </h4>
 
 - The amount of deaths 
 - The amount of deaths per year
@@ -35,8 +37,8 @@ Write up at least one or up to three findings from your analysis based on the da
 - The max of deaths
 - The min of deaths 
 
-
-Research Links:
+<h4>
+Research Links: </h4>
 
 NYC Open Data 
 https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam/data
